@@ -1,0 +1,16 @@
+@font-face{
+    font-family: 'Cedarville Cursive';
+    src: local('Cedarville Cursive'), url('CedarvilleCursive-Regular.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'Alegreya Sans';
+    src: local('Alegreya Sans Regular'), url('AlegreyaSans-Regular.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'Josefin Sans';
+    src:local('Josefin Sans Thin'), url('JosefinSans-VariableFont_wght.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'George Rounded';
+    src:local('George Rounded'), url('GeorgeRoundedRegular.ttf') format('truetype');
+}
